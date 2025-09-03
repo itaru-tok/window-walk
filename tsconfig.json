@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "strict": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "lib": ["esnext"],
+    "types": ["nativewind/types"]
+  },
+  "exclude": ["node_modules"]
+}
+
+
