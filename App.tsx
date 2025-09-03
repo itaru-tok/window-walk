@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { Alert, Platform, SafeAreaView, StatusBar, Text, View } from 'react-native';
 import Constants from 'expo-constants';
 import { Pedometer } from 'expo-sensors';

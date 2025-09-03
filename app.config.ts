@@ -13,12 +13,6 @@ export default ({ config }: any) => ({
   ios: {
     supportsTablet: true,
   },
-  android: {
-    adaptiveIcon: {
-      foregroundImage: './assets/adaptive-icon.png',
-      backgroundColor: '#ffffff',
-    },
-  },
 });
 
 
