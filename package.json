@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"expo-sensors": "^14.1.4"
+	}
+}
